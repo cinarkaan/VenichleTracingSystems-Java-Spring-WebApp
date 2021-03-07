@@ -6,11 +6,11 @@ System uses java soap services and connect (TC Nüfüs Genel Müdürlüğü) tha
 
 <br><br>
 
-<img src="Sample2.png">
+<img src="Sample2.PNG">
 
 <br><br>
 
-<img src="Sample3.png">
+<img src="Sample3.PNG">
 
 
 
