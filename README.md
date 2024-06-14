@@ -1,5 +1,6 @@
 # MEU-Venichle-Tracing-Systems
-Venichle Traning Systems with java spring mvc framework during my summer intern
+
+<p>Venichle Traning Systems with java spring mvc framework during my summer intern. System with java spring mvc framework and desingned software desing patterns. The software also use postgresql database.</p>
 
 <img src="Sample1.PNG">
 
